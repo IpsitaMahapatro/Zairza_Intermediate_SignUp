@@ -4,7 +4,7 @@ export default function SignUp() {
       <div className="flex items-center justify-center min-h-screen bg-gray-900 bg-cover bg-center">
         <div className="bg-gray-800 bg-opacity-75 p-10  rounded-lg shadow-lg">
           <h2 className="text-white text-3xl font-bold mb-10 text-center">
-            Welcome Back
+            Welcome !
           </h2>
           <form>
             <div className="mb-4">
